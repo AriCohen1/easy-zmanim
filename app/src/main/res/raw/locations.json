@@ -1,0 +1,164 @@
+{
+  "groups": [
+    {
+      "title": "United Kingdom",
+      "cities": [
+        { "name": "London", "lat": 51.5074, "lon": -0.1278, "timeZone": "Europe/London" },
+        { "name": "Golders Green", "lat": 51.5724, "lon": -0.1970, "timeZone": "Europe/London" },
+        { "name": "Hendon", "lat": 51.5866, "lon": -0.2220, "timeZone": "Europe/London" },
+        { "name": "Edgware", "lat": 51.6136, "lon": -0.2752, "timeZone": "Europe/London" },
+        { "name": "Borehamwood", "lat": 51.6550, "lon": -0.2790, "timeZone": "Europe/London" },
+        { "name": "Barnet", "lat": 51.6538, "lon": -0.2000, "timeZone": "Europe/London" },
+        { "name": "Stamford Hill", "lat": 51.5684, "lon": -0.0721, "timeZone": "Europe/London" },
+        { "name": "Ilford", "lat": 51.5590, "lon": 0.0741, "timeZone": "Europe/London" },
+        { "name": "Harrow", "lat": 51.5785, "lon": -0.3320, "timeZone": "Europe/London" },
+        { "name": "Wembley", "lat": 51.5526, "lon": -0.2963, "timeZone": "Europe/London" },
+        { "name": "Ealing", "lat": 51.5133, "lon": -0.3074, "timeZone": "Europe/London" },
+        { "name": "Manchester", "lat": 53.4808, "lon": -2.2426, "timeZone": "Europe/London" },
+        { "name": "Salford", "lat": 53.4875, "lon": -2.2901, "timeZone": "Europe/London" },
+        { "name": "Leeds", "lat": 53.8008, "lon": -1.5491, "timeZone": "Europe/London" },
+        { "name": "Birmingham", "lat": 52.4862, "lon": -1.8904, "timeZone": "Europe/London" },
+        { "name": "Liverpool", "lat": 53.4084, "lon": -2.9916, "timeZone": "Europe/London" },
+        { "name": "Sheffield", "lat": 53.3811, "lon": -1.4701, "timeZone": "Europe/London" },
+        { "name": "Nottingham", "lat": 52.9548, "lon": -1.1581, "timeZone": "Europe/London" },
+        { "name": "Leicester", "lat": 52.6369, "lon": -1.1398, "timeZone": "Europe/London" },
+        { "name": "Bristol", "lat": 51.4545, "lon": -2.5879, "timeZone": "Europe/London" },
+        { "name": "Brighton", "lat": 50.8225, "lon": -0.1372, "timeZone": "Europe/London" },
+        { "name": "Glasgow", "lat": 55.8642, "lon": -4.2518, "timeZone": "Europe/London" },
+        { "name": "Edinburgh", "lat": 55.9533, "lon": -3.1883, "timeZone": "Europe/London" },
+        { "name": "Cardiff", "lat": 51.4816, "lon": -3.1791, "timeZone": "Europe/London" },
+        { "name": "Belfast", "lat": 54.5973, "lon": -5.9301, "timeZone": "Europe/London" }
+      ]
+    },
+    {
+      "title": "Israel",
+      "cities": [
+        { "name": "Jerusalem", "lat": 31.7683, "lon": 35.2137, "timeZone": "Asia/Jerusalem" },
+        { "name": "Tel Aviv", "lat": 32.0853, "lon": 34.7818, "timeZone": "Asia/Jerusalem" },
+        { "name": "Bnei Brak", "lat": 32.0866, "lon": 34.8338, "timeZone": "Asia/Jerusalem" },
+        { "name": "Ramat Gan", "lat": 32.0823, "lon": 34.8106, "timeZone": "Asia/Jerusalem" },
+        { "name": "Givatayim", "lat": 32.0713, "lon": 34.8100, "timeZone": "Asia/Jerusalem" },
+        { "name": "Petah Tikva", "lat": 32.0871, "lon": 34.8878, "timeZone": "Asia/Jerusalem" },
+        { "name": "Rishon LeZion", "lat": 31.9730, "lon": 34.7925, "timeZone": "Asia/Jerusalem" },
+        { "name": "Rehovot", "lat": 31.8948, "lon": 34.8113, "timeZone": "Asia/Jerusalem" },
+        { "name": "Holon", "lat": 32.0167, "lon": 34.7792, "timeZone": "Asia/Jerusalem" },
+        { "name": "Bat Yam", "lat": 32.0231, "lon": 34.7503, "timeZone": "Asia/Jerusalem" },
+        { "name": "Herzliya", "lat": 32.1656, "lon": 34.8447, "timeZone": "Asia/Jerusalem" },
+        { "name": "Ra'anana", "lat": 32.1848, "lon": 34.8713, "timeZone": "Asia/Jerusalem" },
+        { "name": "Kfar Saba", "lat": 32.1750, "lon": 34.9069, "timeZone": "Asia/Jerusalem" },
+        { "name": "Netanya", "lat": 32.3215, "lon": 34.8532, "timeZone": "Asia/Jerusalem" },
+        { "name": "Haifa", "lat": 32.7940, "lon": 34.9896, "timeZone": "Asia/Jerusalem" },
+        { "name": "Tzfat (Safed)", "lat": 32.9646, "lon": 35.4960, "timeZone": "Asia/Jerusalem" },
+        { "name": "Tiberias", "lat": 32.7940, "lon": 35.5330, "timeZone": "Asia/Jerusalem" },
+        { "name": "Afula", "lat": 32.6091, "lon": 35.2897, "timeZone": "Asia/Jerusalem" },
+        { "name": "Beit Shemesh", "lat": 31.7462, "lon": 34.9867, "timeZone": "Asia/Jerusalem" },
+        { "name": "Modi'in", "lat": 31.8969, "lon": 35.0100, "timeZone": "Asia/Jerusalem" },
+        { "name": "Ashdod", "lat": 31.8044, "lon": 34.6553, "timeZone": "Asia/Jerusalem" },
+        { "name": "Ashkelon", "lat": 31.6688, "lon": 34.5743, "timeZone": "Asia/Jerusalem" },
+        { "name": "Be'er Sheva", "lat": 31.2529, "lon": 34.7915, "timeZone": "Asia/Jerusalem" },
+        { "name": "Eilat", "lat": 29.5577, "lon": 34.9519, "timeZone": "Asia/Jerusalem" }
+      ]
+    },
+    {
+      "title": "USA (East)",
+      "cities": [
+        { "name": "New York City", "lat": 40.7128, "lon": -74.0060, "timeZone": "America/New_York" },
+        { "name": "Brooklyn (Boro Park)", "lat": 40.6353, "lon": -73.9943, "timeZone": "America/New_York" },
+        { "name": "Brooklyn (Flatbush)", "lat": 40.6300, "lon": -73.9550, "timeZone": "America/New_York" },
+        { "name": "Brooklyn (Williamsburg)", "lat": 40.7081, "lon": -73.9571, "timeZone": "America/New_York" },
+        { "name": "Lakewood, NJ", "lat": 40.0912, "lon": -74.2070, "timeZone": "America/New_York" },
+        { "name": "Monsey, NY", "lat": 41.1127, "lon": -74.0645, "timeZone": "America/New_York" },
+        { "name": "Five Towns, NY", "lat": 40.6226, "lon": -73.7290, "timeZone": "America/New_York" },
+        { "name": "Teaneck, NJ", "lat": 40.8932, "lon": -74.0117, "timeZone": "America/New_York" },
+        { "name": "Baltimore", "lat": 39.2904, "lon": -76.6122, "timeZone": "America/New_York" },
+        { "name": "Miami Beach", "lat": 25.7907, "lon": -80.1300, "timeZone": "America/New_York" },
+        { "name": "Boca Raton", "lat": 26.3683, "lon": -80.1289, "timeZone": "America/New_York" },
+        { "name": "Cleveland", "lat": 41.4993, "lon": -81.6944, "timeZone": "America/New_York" },
+        { "name": "Detroit (Oak Park)", "lat": 42.4595, "lon": -83.1827, "timeZone": "America/Detroit" }
+      ]
+    },
+    {
+      "title": "USA (Central/West)",
+      "cities": [
+        { "name": "Chicago", "lat": 41.8781, "lon": -87.6298, "timeZone": "America/Chicago" },
+        { "name": "St. Louis", "lat": 38.6270, "lon": -90.1994, "timeZone": "America/Chicago" },
+        { "name": "Dallas", "lat": 32.7767, "lon": -96.7970, "timeZone": "America/Chicago" },
+        { "name": "Houston", "lat": 29.7604, "lon": -95.3698, "timeZone": "America/Chicago" },
+        { "name": "Denver", "lat": 39.7392, "lon": -104.9903, "timeZone": "America/Denver" },
+        { "name": "Los Angeles", "lat": 34.0522, "lon": -118.2437, "timeZone": "America/Los_Angeles" },
+        { "name": "Tarzana/Encino", "lat": 34.1620, "lon": -118.5350, "timeZone": "America/Los_Angeles" },
+        { "name": "San Francisco", "lat": 37.7749, "lon": -122.4194, "timeZone": "America/Los_Angeles" },
+        { "name": "Seattle", "lat": 47.6062, "lon": -122.3321, "timeZone": "America/Los_Angeles" },
+        { "name": "Phoenix", "lat": 33.4484, "lon": -112.0740, "timeZone": "America/Phoenix" }
+      ]
+    },
+    {
+      "title": "Canada",
+      "cities": [
+        { "name": "Toronto", "lat": 43.6532, "lon": -79.3832, "timeZone": "America/Toronto" },
+        { "name": "Montreal", "lat": 45.5019, "lon": -73.5674, "timeZone": "America/Toronto" }
+      ]
+    },
+    {
+      "title": "Europe",
+      "cities": [
+        { "name": "Antwerp", "lat": 51.2194, "lon": 4.4025, "timeZone": "Europe/Brussels" },
+        { "name": "Paris", "lat": 48.8566, "lon": 2.3522, "timeZone": "Europe/Paris" },
+        { "name": "Strasbourg", "lat": 48.5734, "lon": 7.7521, "timeZone": "Europe/Paris" },
+        { "name": "Marseille", "lat": 43.2965, "lon": 5.3698, "timeZone": "Europe/Paris" },
+        { "name": "Zurich", "lat": 47.3769, "lon": 8.5417, "timeZone": "Europe/Zurich" },
+        { "name": "Geneva", "lat": 46.2044, "lon": 6.1432, "timeZone": "Europe/Zurich" },
+        { "name": "Vienna", "lat": 48.2082, "lon": 16.3738, "timeZone": "Europe/Vienna" },
+        { "name": "Berlin", "lat": 52.5200, "lon": 13.4050, "timeZone": "Europe/Berlin" },
+        { "name": "Frankfurt", "lat": 50.1109, "lon": 8.6821, "timeZone": "Europe/Berlin" },
+        { "name": "Munich", "lat": 48.1351, "lon": 11.5820, "timeZone": "Europe/Berlin" },
+        { "name": "Budapest", "lat": 47.4979, "lon": 19.0402, "timeZone": "Europe/Budapest" },
+        { "name": "Amsterdam", "lat": 52.3676, "lon": 4.9041, "timeZone": "Europe/Amsterdam" },
+        { "name": "Gibraltar", "lat": 36.1408, "lon": -5.3536, "timeZone": "Europe/Gibraltar" },
+        { "name": "Kiev", "lat": 50.4501, "lon": 30.5234, "timeZone": "Europe/Kiev" },
+        { "name": "Uman", "lat": 48.7487, "lon": 30.2218, "timeZone": "Europe/Kiev" },
+        { "name": "Moscow", "lat": 55.7558, "lon": 37.6173, "timeZone": "Europe/Moscow" }
+      ]
+    },
+    {
+      "title": "Latin America",
+      "cities": [
+        { "name": "Buenos Aires", "lat": -34.6037, "lon": -58.3816, "timeZone": "America/Argentina/Buenos_Aires" },
+        { "name": "São Paulo", "lat": -23.5505, "lon": -46.6333, "timeZone": "America/Sao_Paulo" },
+        { "name": "Rio de Janeiro", "lat": -22.9068, "lon": -43.1729, "timeZone": "America/Sao_Paulo" },
+        { "name": "Santiago", "lat": -33.4489, "lon": -70.6693, "timeZone": "America/Santiago" },
+        { "name": "Mexico City", "lat": 19.4326, "lon": -99.1332, "timeZone": "America/Mexico_City" },
+        { "name": "Panama City", "lat": 8.9824, "lon": -79.5199, "timeZone": "America/Panama" },
+        { "name": "Montevideo", "lat": -34.9011, "lon": -56.1645, "timeZone": "America/Montevideo" },
+        { "name": "Caracas", "lat": 10.4806, "lon": -66.9036, "timeZone": "America/Caracas" },
+        { "name": "Bogota", "lat": 4.7110, "lon": -74.0721, "timeZone": "America/Bogota" }
+      ]
+    },
+    {
+      "title": "South Africa",
+      "cities": [
+        { "name": "Johannesburg", "lat": -26.2041, "lon": 28.0473, "timeZone": "Africa/Johannesburg" },
+        { "name": "Cape Town", "lat": -33.9249, "lon": 18.4241, "timeZone": "Africa/Johannesburg" },
+        { "name": "Durban", "lat": -29.8587, "lon": 31.0218, "timeZone": "Africa/Johannesburg" }
+      ]
+    },
+    {
+      "title": "Australia",
+      "cities": [
+        { "name": "Melbourne", "lat": -37.8136, "lon": 144.9631, "timeZone": "Australia/Melbourne" },
+        { "name": "Sydney", "lat": -33.8688, "lon": 151.2093, "timeZone": "Australia/Sydney" },
+        { "name": "Perth", "lat": -31.9505, "lon": 115.8605, "timeZone": "Australia/Perth" }
+      ]
+    },
+    {
+      "title": "Asia",
+      "cities": [
+        { "name": "Hong Kong", "lat": 22.3193, "lon": 114.1694, "timeZone": "Asia/Hong_Kong" },
+        { "name": "Bangkok", "lat": 13.7563, "lon": 100.5018, "timeZone": "Asia/Bangkok" },
+        { "name": "Singapore", "lat": 1.3521, "lon": 103.8198, "timeZone": "Asia/Singapore" },
+        { "name": "Tokyo", "lat": 35.6762, "lon": 139.6503, "timeZone": "Asia/Tokyo" },
+        { "name": "Mumbai", "lat": 19.0760, "lon": 72.8777, "timeZone": "Asia/Kolkata" }
+      ]
+    }
+  ]
+}

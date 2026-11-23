@@ -1,0 +1,30 @@
+# Build outputs
+build/
+/app/release/
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+*.ap_
+*.dex
+output-metadata.json
+
+# Signing (never commit)
+*.jks
+*.keystore
+keystore.properties
+
+# Local config and secrets
+local.properties
+.env
+google-services.json
+
+# IDE
+.idea/
+*.iml
+.gradle/
+.kotlin/
+
+# OS
+.DS_Store
